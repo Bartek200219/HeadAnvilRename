@@ -1,0 +1,5 @@
+name: HeadAnvilRename
+version: '${project.version}'
+main: pl.kabzteam.bartek.headanvilrename.HeadAnvilRename
+api-version: 1.18
+description: Rename player head to player name in anvil to get head of that player
